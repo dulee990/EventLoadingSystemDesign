@@ -11,6 +11,10 @@ composer install
 
 3. Run the loader example:
 
+php index.php
+
+4. Run the test:
+
 php vendor/bin/phpunit
 
 

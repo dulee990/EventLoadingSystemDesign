@@ -1,1 +1,1 @@
-{"version":1,"defects":{"EventLoadingSystemDesign\\Tests\\EventLoaderTest::testEventSourceReturnsMaximum1000Events":8},"times":{"EventLoadingSystemDesign\\Tests\\EventLoaderTest::testEventSourceReturnsMaximum1000Events":0.256}}
+{"version":1,"defects":{"EventLoadingSystemDesign\\Tests\\EventLoaderTest::testEventSourceReturnsMaximum1000Events":8},"times":{"EventLoadingSystemDesign\\Tests\\EventLoaderTest::testEventSourceReturnsMaximum1000Events":0.286}}
