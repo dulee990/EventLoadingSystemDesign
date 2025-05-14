@@ -7,8 +7,6 @@ use EventLoadingSystemDesign\Interfaces\{EventSourceInterface, EventStorageInter
 use EventLoadingSystemDesign\Models\Event;
 use Symfony\Component\Lock\LockFactory;
 use Symfony\Component\Lock\Store\FlockStore;
-use EventLoadingSystemDesign\Models\Exceptions\EventSourceUnavailableException;
-use Psr\Log\NullLogger;
 use Psr\Log\AbstractLogger; 
 
 class DummySource implements EventSourceInterface {

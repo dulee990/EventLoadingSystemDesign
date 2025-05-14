@@ -13,5 +13,8 @@
         "psr-4": {
             "EventLoadingSystemDesign\\": "./"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
     }
 }

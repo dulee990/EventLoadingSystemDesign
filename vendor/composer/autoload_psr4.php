@@ -8,5 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Symfony\\Component\\Lock\\' => array($vendorDir . '/symfony/lock'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/src'),
+    'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
     'EventLoadingSystemDesign\\' => array($baseDir . '/'),
+    'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
 );
