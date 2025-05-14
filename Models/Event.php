@@ -1,7 +1,7 @@
 <?php
 
 namespace EventLoadingSystemDesign\Models;
-
+ 
 final class Event
 {
   public function __construct(

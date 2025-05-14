@@ -1,7 +1,7 @@
 {
     "name": "event-loader/task",
     "description": "Event loading mechanism task",
-    "type": "project",
+    "type": "project", 
     
     "require": {
         "symfony/lock": "^7.2",
